@@ -1,4 +1,4 @@
+
 # 참고
-def print_hello():
-    return print("hello python!")
-print_hello()
+for i in range(1,5+1):
+    print("It works on subdim!")
